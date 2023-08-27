@@ -1,1 +1,8 @@
 # Automation-Facebook-Custom-Audience
+
+In today's fast-paced world of digital marketing, effective audience targeting is crucial for campaign success. However, managing custom audiences on Facebook Manager can be time-consuming. Discover a game-changing Python-based approach that revolutionizes custom audience creation, freeing up valuable time for crafting compelling ad content and optimizing campaigns.
+Welcome to our comprehensive guide, where we introduce you to a powerful method that leverages Cloud Functions and BigQuery for unprecedented efficiency and accuracy in managing audience lists. With Google's serverless computing platform, Cloud Functions, you can automate the audience creation process and bid farewell to manual uploads and updates.
+Explore the capabilities of BigQuery, Google's enterprise data warehouse, to securely store and manage hashed customer lists from offline sources like your CRM system. This ensures a comprehensive and enriched view of your audience while maintaining privacy and compliance and providing lightning-fast query processing for real-time insights.
+Our beginner-friendly Python scripts will guide you through the process with clear explanations and examples, making it accessible to marketers of all levels. Join us on this automation journey to gain a competitive edge in advertising, enhance audience targeting, and elevate your campaign results. Say goodbye to tedious manual audience management and get ready to drive exceptional results for your business with a more efficient and effective advertising strategy.
+
+Further information of this code can be found in this article: Efficient Custom Audience Automation: A Python-Based Guide using Cloud Functions and BigQuery for Facebook Ads Manager in Medium
